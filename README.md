@@ -39,8 +39,6 @@ Python
 
 Pandas
 
-NumPy
-
 Matplotlib
 
 Seaborn
@@ -72,10 +70,6 @@ trend delle vendite globali nel tempo
 piattaforme più vendute
 
 generi più popolari
-
-confronto vendite tra regioni
-
-heatmap delle correlazioni
 
 4. Analisi avanzata
 top 10 videogiochi più venduti
