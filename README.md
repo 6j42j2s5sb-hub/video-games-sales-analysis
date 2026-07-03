@@ -10,7 +10,7 @@ visualizzazioni con Seaborn e Matplotlib
 
 interpretazione dei risultati
 
-📊 Dataset
+Dataset
 Fonte: Kaggle – Video Game Sales  
 Il dataset contiene informazioni su oltre 16.000 videogiochi, con le seguenti colonne principali:
 
@@ -34,7 +34,7 @@ Other_Sales – vendite nel resto del mondo
 
 Global_Sales – vendite totali
 
-🛠️ Tecnologie utilizzate
+Tecnologie utilizzate
 Python
 
 Pandas
@@ -45,7 +45,7 @@ Seaborn
 
 Jupyter Notebook
 
-🔍 Analisi svolta
+Analisi svolta
 Nel notebook notebooks/analysis.ipynb vengono eseguite le seguenti operazioni:
 
 1. Esplorazione iniziale
@@ -81,7 +81,7 @@ analisi piattaforme nel tempo
 5. Insight finali
 Sintesi dei risultati ottenuti e considerazioni sul mercato videoludico.
 
-🖼️ Risultati (grafici)
+Risultati (grafici)
 I grafici generati durante l’analisi sono salvati nella cartella images/.
 
 Repository:
